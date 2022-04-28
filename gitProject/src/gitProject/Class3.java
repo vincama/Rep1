@@ -1,5 +1,5 @@
 package gitProject;
 
-public class class2 {
+public class Class3 {
 
 }
